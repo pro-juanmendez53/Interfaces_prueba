@@ -1,0 +1,15 @@
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\bin\Debug\net7.0\interfaces_prueba.exe
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\bin\Debug\net7.0\interfaces_prueba.deps.json
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\bin\Debug\net7.0\interfaces_prueba.runtimeconfig.json
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\bin\Debug\net7.0\interfaces_prueba.dll
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\bin\Debug\net7.0\interfaces_prueba.pdb
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.csproj.AssemblyReference.cache
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.AssemblyInfoInputs.cache
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.AssemblyInfo.cs
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.dll
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\refint\interfaces_prueba.dll
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.pdb
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\interfaces_prueba.genruntimeconfig.cache
+C:\Users\Vito\Desktop\Parcial\Interfaces prueba corta\interfaces_prueba\interfaces_prueba\obj\Debug\net7.0\ref\interfaces_prueba.dll
